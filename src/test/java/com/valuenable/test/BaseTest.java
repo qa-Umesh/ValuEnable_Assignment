@@ -1,10 +1,10 @@
-package com.valueable.test;
+package com.valuenable.test;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-import com.valueable.pages.HomePage;
-import com.valueanable.constants.Browser;
+import com.valuenable.constants.Browser;
+import com.valuenable.pages.HomePage;
 
 public class BaseTest {
 

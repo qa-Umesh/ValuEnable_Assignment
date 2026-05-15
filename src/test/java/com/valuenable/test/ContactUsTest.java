@@ -1,9 +1,9 @@
-package com.valueable.test;
+package com.valuenable.test;
 
 import static org.testng.Assert.*;
 import org.testng.annotations.Test;
 
-import com.valueanable.constants.PartnerType;
+import com.valuenable.constants.PartnerType;
 
 public class ContactUsTest extends BaseTest {
 

@@ -1,4 +1,4 @@
-package com.valueanable.utility;
+package com.valuenable.utility;
 
 import java.time.Duration;
 
@@ -13,8 +13,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.valueanable.constants.Browser;
-import com.valueanable.constants.PartnerType;
+import com.valuenable.constants.Browser;
+import com.valuenable.constants.PartnerType;
 
 public abstract class BrowserUtility {
 

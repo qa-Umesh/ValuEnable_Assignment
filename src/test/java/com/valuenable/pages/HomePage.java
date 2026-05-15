@@ -1,12 +1,12 @@
-package com.valueable.pages;
+package com.valuenable.pages;
+
+import static com.valuenable.constants.Browser.*;
 
 import org.openqa.selenium.By;
 
-import static com.valueanable.constants.Browser.*;
-
-import com.valueanable.constants.Browser;
-import com.valueanable.constants.PartnerType;
-import com.valueanable.utility.BrowserUtility;
+import com.valuenable.constants.Browser;
+import com.valuenable.constants.PartnerType;
+import com.valuenable.utility.BrowserUtility;
 
 public class HomePage extends BrowserUtility {
 
